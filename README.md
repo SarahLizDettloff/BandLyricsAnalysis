@@ -14,12 +14,12 @@
 <sub> Word counts do not include pronouns. </sub>
 
 <sub> Lyrics and Examples are from Portishead's Dummy and Portishead </sub>
-1) Top 20 Words used per album
+1) Top 20 Words used per album *coming soon*
 2) Top 20 Words used overall
-3) Who wrote the most lyrics?
-4) who wrote the most music?
-5) Who wrote both the most lyrics and music combined?
-6) Top 5 words used the most in each song title
+3) Who wrote the most lyrics? *coming soon*
+4) who wrote the most music? *coming soon*
+5) Who wrote both the most lyrics and music combined? *coming soon*
+6) Top 5 words used the most in each song title *coming soon*
 
 
 
