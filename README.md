@@ -7,7 +7,7 @@
 ## Directions
  1) Update the directory path to a location on your computer. This location should be a folder for the band name.
  2) Within the folder of the band name, directories should include a list of albums. Within each album folder should be the song lyrics in a text file.
- 3) Run the notebook and gaze at your results.
+ 3) Run in Jupyter lab or notebook, press shift + enter to run each cell.
 
 ## Example
 <sub> Word counts do not include pronouns. </sub>
